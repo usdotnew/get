@@ -9,7 +9,6 @@
     "format": "prettier --write '**/*.{js,css,json,md}'"
   },
   "author": "RunLaszloRun <34609082+RunLaszloRun@users.noreply.github.com>",
-  "license": "MIT",
   "devDependencies": {
     "prettier": "^1.18.2"
   }
