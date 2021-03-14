@@ -1,6 +1,6 @@
 name = "get"
 type = "javascript"
-account_id = ""
+account_id = "c0308ef1e835fd8a00e413bdd600030e"
 workers_dev = true
 route = ""
-zone_id = ""
+zone_id = "fa1b113e473f6826ce6272c5c9d69223"
